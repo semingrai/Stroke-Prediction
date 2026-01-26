@@ -36,5 +36,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook stroke-prediction.ipynb
 ```
 
-## Author
 semingrai
